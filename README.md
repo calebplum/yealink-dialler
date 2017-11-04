@@ -1,5 +1,5 @@
 # yealink-dialler
-Yealink-dialler is a Python interface to send commands to Yealink IP phones. It was written in early 2016 and is is untested on firmware released since then. It currently performs the following functions:
+Yealink-dialler is a Python interface to send commands to Yealink IP phones. It was written in early 2016 and is is untested on firmware released since then. It performs the following functions:
 
 1. Dial telephone numbers
 2. Answer incoming calls
@@ -29,4 +29,4 @@ If you find that it works with any other models please let me know.
 
 
 ## Usage
-Setup is simple. Fill in your phone's details in the variables at the top of the script. The Internal Parameters section does not need to be modified. Make sure your phone is configured to allow Action URI calls from your computer, this can be done in the phone's web interface in Features > Remote Control.
+Setup is simple. Fill in the phone's details in the variables at the top of the script. The Internal Parameters section does not need to be modified. Make sure your phone is configured to allow Action URI calls from your computer, this can be done in the phone's web interface in Features > Remote Control.
